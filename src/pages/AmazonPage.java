@@ -6,6 +6,6 @@ public class AmazonPage {
     //html for search button
 
     //html for deals change
-    
-    //update
+
+    //html for cart page
 }
